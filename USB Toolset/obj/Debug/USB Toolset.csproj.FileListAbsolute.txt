@@ -1,0 +1,17 @@
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\USB Toolset.exe.config
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\USB Toolset.exe
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\USB Toolset.pdb
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB Toolset.csprojAssemblyReference.cache
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB_Toolset.Form1.resources
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB_Toolset.Properties.Resources.resources
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB Toolset.csproj.GenerateResource.cache
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB Toolset.csproj.CoreCompileInputs.cache
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB Toolset.exe
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB Toolset.pdb
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\DiskSpaceMon.dll
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\RamDisk.dll
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\RamDisk.pdb
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\bin\Debug\RamDisk.xml
+C:\Users\mikk48d3\source\repos\USB Toolset\USB Toolset\obj\Debug\USB Toolset.csproj.CopyComplete
